@@ -1,6 +1,7 @@
 {
+    "homepage": "https://zhanghaiguo.github.io/fengyumoment-web",
+
   "name": "asxx-web",
-  "homepage": "https://zhanghaiguo.github.io/fengyumoment-web/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
