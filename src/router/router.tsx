@@ -1,4 +1,4 @@
-import { createBrowserRouter, Navigate } from "react-router-dom";
+import { createHashRouter } from "react-router-dom";
 import App from "../App";
 import AppDownload from "../pages/download/AppDownload";
 import Error403 from "../pages/error/Error403";
@@ -36,6 +36,6 @@ const routers =  [{
     ]
 }]
 
-const basename = process.env.PUBLIC_URL || (process.env.NODE_ENV === 'production' ? '/fengyumoment-web' : '/')
+const hasrouter = createHashRouter(routers)
 
-export default createBrowserRouter(routers, { basename })
+export default hasrouter
