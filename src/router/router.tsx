@@ -36,4 +36,6 @@ const routers =  [{
     ]
 }]
 
-export default createBrowserRouter(routers)
+const basename = process.env.PUBLIC_URL || (process.env.NODE_ENV === 'production' ? '/fengyumoment-web' : '/')
+
+export default createBrowserRouter(routers, { basename })
