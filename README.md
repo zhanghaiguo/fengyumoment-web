@@ -5,3 +5,6 @@ npn run start:dev
 
 ### 构建生产环境
 npm run build:prod
+
+## 部署react应用到github
+npm run deploy
