@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fengyumoment-web/static/css/main.e6c13ad2.css",
-    "main.js": "/fengyumoment-web/static/js/main.20aa41e6.js",
+    "main.js": "/fengyumoment-web/static/js/main.6af88b46.js",
     "index.html": "/fengyumoment-web/index.html",
     "main.e6c13ad2.css.map": "/fengyumoment-web/static/css/main.e6c13ad2.css.map",
-    "main.20aa41e6.js.map": "/fengyumoment-web/static/js/main.20aa41e6.js.map"
+    "main.6af88b46.js.map": "/fengyumoment-web/static/js/main.6af88b46.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.20aa41e6.js"
+    "static/js/main.6af88b46.js"
   ]
 }
